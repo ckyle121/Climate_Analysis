@@ -10,9 +10,11 @@ Investors of a dual ice cream/ surf shop in Hawii seek to analyze weather data f
 As one can see, there is not much variance in the weather between the month of June and the month of December. It does not get too not, nor does it get too cold which is the ideal weather for surfers. 
 
 Figure One shows the temperature statistics for the month of June at the desired location of the ice cream/surf shop in Oahu, HI. 
+
 ![june_statistics1](https://user-images.githubusercontent.com/75647359/107885692-5f353c80-6ec1-11eb-903e-30d17739dc05.png)
 
 Figure Two shows the temperature statistics for the month of December at the desired location of the ice cream/surf shop in Oahu, HI. 
+
 ![december_statistics2](https://user-images.githubusercontent.com/75647359/107885678-4fb5f380-6ec1-11eb-9cc6-2b3ba27baa48.png)
 
 ## Climate Analysis Summary 
